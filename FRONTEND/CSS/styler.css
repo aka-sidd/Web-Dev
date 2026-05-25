@@ -1,0 +1,52 @@
+/* Tag Based Selector */
+h1{
+    background-color: pink;
+    font-size: 30px;
+}
+h2{
+    background-color: lightblue;
+    font-size: 25px;
+}
+ul{
+    background-color: aquamarine;
+    font-size: 20px;
+}
+/* ID Based Selector */
+#first{
+    background-color: Blue;
+    
+}
+#second{
+    background-color: aqua;
+}
+.third{
+    background-color: Violet;
+}
+h1, .third{
+    background-color: lightgreen;
+}
+h1{
+    background-color: hsl(110,50%, 7%);
+}
+h1{
+    font-size: 50px;
+}
+li{
+}
+h2{
+    /* font-size:2rem; */
+}
+h2{
+    /* font-size: 2vw; */
+    font-family: "Gill Sans", Times, serif;
+    font-weight:bold;
+}
+li{
+    font-size:5vh;
+    /* font-size:50%; */
+}
+h2{
+    font-family: "Gill Sans", Times, serif;
+    font-weight:bold;
+    font-style: italic;
+}
