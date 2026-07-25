@@ -1,7 +1,7 @@
-let x = 3;
-// const y = x++;
-// console.log(`x: ${x}, y:${y}`);
+for(let i=0;i<=10;i++){
+//     console.log(i);
+// }
 
-// let a = 3;
-// const b = a++;
-// console.log(`a:${a}, b:${b}`);
+// for(let i = 10;i>=0;i--){
+//     console.log(i);
+// }
